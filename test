@@ -1,0 +1,30 @@
+<HTML> ##pembuka
+<head> ##depe kapala
+<title>Halaman 1</title>
+</head>
+<body bgcolor="gray">
+<hr>
+<a href ="latihan2.html"> Ke halaman 2</a>
+<h1>ini heading 1</h1>
+<h2>ini heading 2</h2>
+<h6>ini heading 6</h6>
+<img src="ash2k.jpg" width="485" height="484">
+<hr>
+<p>disini depe tulisan pake paragraf</p> 
+<br><b>berarti tulisan bold</b></br>
+<br><i>pake italic</i></br>
+<br><u>pake underline</u></br>
+<hr>
+<p>superscript dan subscript</p>
+<p>sup for <sup>pangkat</sup></p>
+<p>sub for <sub>dibawah</sub></p>
+<hr>
+<font size="7">contoh font berukuran 7</font>
+<br>
+<font face="courier new">font TNR</font>
+<br>
+<font color="#ff0000">tulisan so ba warna azek</font>
+<br>
+</body>
+
+</HTML> ##penutup
